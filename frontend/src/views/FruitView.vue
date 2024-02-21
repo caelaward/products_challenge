@@ -63,7 +63,6 @@ export default {
       }
     },
   computed:{
-   
      getFruits(){
       this.$store.dispatch('getFruits')
     },
